@@ -1,5 +1,5 @@
-Built With Vue
-SPA Including Front And Back
-Form Validation By Vee-Validate
-Form Management By Axios
-Using Node.js
+Built With Vue<br>
+SPA Including Front And Back<br>
+Form Validation By Vee-Validate<br>
+Form Management By Axios<br>
+Using Node.js<br>
